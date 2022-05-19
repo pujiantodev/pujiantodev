@@ -19,5 +19,5 @@
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on **Toko Ladang**
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & Vuejs**
 - 📧 Email me at [ekoxyz15@gmail.com](mailto:ekoxyz15@gmail.com)
