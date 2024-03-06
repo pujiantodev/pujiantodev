@@ -20,4 +20,4 @@
 
 - 🔭 I’m currently working on **Toko Ladang**
 - 🌱 I’m currently learning **Laravel & Vuejs**
-- 📧 Email me at [ekoxyz15@gmail.com](mailto:ekoxyz15@gmail.com)
+- 📧 Email me at [devpujianto@gmail.com](mailto:devpujianto@gmail.com)
